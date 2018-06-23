@@ -321,7 +321,7 @@ def plot_decision_boundary(model, X, y):
     plt.contourf(xx, yy, Z, cmap=plt.cm.Spectral)
     plt.ylabel('x2')
     plt.xlabel('x1')
-    plt.scatter(X[0, :], X[1, :], c=y, cmap=plt.cm.Spectral)
+    plt.scatter(X[0, :], X[1, :], c=y.reshape(-1), cmap=plt.cm.Spectral)
     plt.show()
     
 def load_2D_dataset():
@@ -331,6 +331,6 @@ def load_2D_dataset():
     test_X = data['Xval'].T
     test_Y = data['yval'].T
 
-    plt.scatter(train_X[0, :], train_X[1, :], c=train_Y, s=40, cmap=plt.cm.Spectral);
+    plt.scatter(train_X[0, :], train_X[1, :], c=train_Y.reshape(-1), s=40, cmap=plt.cm.Spectral);
     
     return train_X, train_Y, test_X, test_Y
