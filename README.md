@@ -4,10 +4,12 @@ Programming assignments of [DeepLearning.ai specialization courses](https://www.
 
 # Table of Contents
 ## Course 1: Neural Networks and Deep Learning
-[C1W2P1 - Python Basics with Numpy](/C1W2P1%20-%20Python%20Basics%20with%20Numpy)
+[C1W2P1 - Python Basics with Numpy](/C1W2P1%20-%20Python%20Basics%20with%20Numpy/main.ipynb)
 
 [C1W2P2 - Logistic Regression with a Neural Network Mindset](/C1W2P2%20-%20Logistic%20Regression%20with%20a%20Neural%20Network%20Mindset)
+
 [C1W3P1 - Planar data classification with one hidden layer](/C1W3P1%20-%20Planar%20data%20classification%20with%20one%20hidden%20layer)
+
 [C1W4P1 - Building your Deep Neural Network](/C1W4P1%20-%20Building%20your%20Deep%20Neural%20Network)
 ## Course 2: Improving Deep Neural Networks
 ## Course 3: Structuring Machine Learning Projects
