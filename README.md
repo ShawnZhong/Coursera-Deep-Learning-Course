@@ -25,6 +25,11 @@ Programming assignments of [DeepLearning.ai specialization courses](https://www.
 
 [C2W3P1 - Tensorflow Tutorial](/C2W3P1%20-%20Tensorflow%20Tutorial%20/main.ipynb)
 
+
+## Course 3: Structuring Machine Learning Projects
+
+There is no programming assignments for course 3
+
 ## Course 4: Convolutional Neural Networks
 [C4W1P1 - Convolution Model (Step by Step)](/C4W1P1%20-%20Convolution%20Model%20(Step%20by%20Step)/main.ipynb)
 
@@ -41,4 +46,16 @@ Programming assignments of [DeepLearning.ai specialization courses](https://www.
 [C4W4P2 - Art Generation with Neural Style Transfer](/C4W4P2%20-%20Art%20Generation%20with%20Neural%20Style%20Transfer/main.ipynb)
 
 ## Course 5: Sequence Models
+[C5W1P1 - Building a Recurrent Neural Network (Step by Step)](/C5W1P1%20-%20Building%20a%20Recurrent%20Neural%20Network%20(Step%20by%20Step)/main.ipynb)
 
+[C5W1P2 - Dinosaur Island (Character-level language model)](/C5W1P2%20-%20Dinosaur%20Island%20(Character-level%20language%20model)/main.ipynb)
+
+[C5W1P3- Jazz improvisation with LSTM](/C5W1P3-%20Jazz%20improvisation%20with%20LSTM/main.ipynb)
+
+[C5W2P1 - Operations on word vectors - Debiasing](/C5W2P1%20-%20Operations%20on%20word%20vectors%20-%20Debiasing/main.ipynb)
+
+[C5W2P2 - Emojify](/C5W2P2%20-%20Emojify/main.ipynb)
+
+[C5W3P1 - Neural Machine Translation with Attention](/C5W3P1%20-%20Neural%20Machine%20Translation%20with%20Attention/main.ipynb)
+
+[C5W3P2 - Trigger word detection](/C5W3P2%20-%20Trigger%20word%20detection/main.ipynb)
